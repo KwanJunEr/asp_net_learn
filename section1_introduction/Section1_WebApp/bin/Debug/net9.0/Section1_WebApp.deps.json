@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Section1_WebApp/1.0.0": {
+        "runtime": {
+          "Section1_WebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section1_WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
